@@ -34,26 +34,9 @@
       <change afterPath="$PROJECT_DIR$/../Hero/src/Strings/SringB/P2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Hero/src/TA/P10.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Hero/src/TA/P11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Resources/Data.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/base/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/driver/DriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pages/PageFactory/DashboardPF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pages/PageFactory/LoginPF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pages/PageObjectModel/DashboardPOM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pages/PageObjectModel/LoginPOM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/utils/ENVReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/utils/ExcelReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/utils/JSONReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/utils/PropertyReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/utils/YamlReader.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Hero/src/TA/P9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hero/src/TA/P9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +71,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
